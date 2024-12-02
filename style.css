@@ -23,6 +23,7 @@ nav {
   background-color: white;
   opacity: 0.9;
   width: 100%;
+  font-size: 20px;
 }
 ul a {
   display: inline-flex;
